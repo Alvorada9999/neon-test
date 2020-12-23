@@ -1,0 +1,1 @@
+/home/kenedy/Projects/Prototyping\ Garden/Rust/rust_binary/target/release/rust_binary: /home/kenedy/Projects/Prototyping\ Garden/Rust/rust_binary/src/fibonacci.rs /home/kenedy/Projects/Prototyping\ Garden/Rust/rust_binary/src/main.rs

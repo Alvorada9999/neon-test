@@ -1,0 +1,14 @@
+{
+  "name": "fibonacci",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "author": "Kenedy-Henrique <kenedyhenrique.buenosilva@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "neon-cli": "^0.6.0"
+  },
+  "scripts": {
+    "install": "neon build"
+  }
+}
